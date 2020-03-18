@@ -1,6 +1,4 @@
 theme: 'jekyll-theme-cayman'
 locale: 'en-US'
-title: 'DGKmaster Projects'
-title_separator: '-'
-name: 'Artem Volkov'
-description: 'All links to my projects with a description'
+title: 'Artem Volkov / DGKmaster'
+description: 'All hyperlinks to my projects with a short description'
