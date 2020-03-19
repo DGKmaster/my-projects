@@ -4,7 +4,7 @@
 
 ### 1.1 [xgboosters](https://dgkmaster.github.io/xgboosters/)
 
-**Description**. Hackathon **Nexign Hack 2018**. QA case.
+Hackathon **Nexign Hack 2018**. QA case.
 
 ### 1.2 [FastCart](https://github.com/samsheff/FastCart)
 
@@ -24,23 +24,25 @@ Web application for serving an auction using blockhain and smartcontracts.
 
 ### 2.1 [NewHopeROS](https://gitlab.com/DGKmaster/NewHopeROS)
 
-Mobile robot remote control using TCP Unix sockets. Commands are sent with defined protocol.
+Разработка программных модулей системы управления колесным мобильным роботом.
 
 ### 2.2 [SystemStateModel](https://github.com/DGKmaster/SystemStateModel)
 
-Discrete system modelling in Matlab. The system is described in input-state-output form.
+Modelling a system using state space variables and applying a exponential filter for output.
 
-### 2.3 [StateCppModel]()
+### 2.3 [StateCppModel](https://github.com/DGKmaster/StateCppModel)
+
+Exponential filter in C++ using state space models.
 
 ---
 
-## Computer Vision
+## 3 Computer Vision
 
-### 1. [HunterCV](https://gitlab.com/DGKmaster/HunterCV)
+### 3.1 [HunterCV](https://gitlab.com/DGKmaster/HunterCV)
 
-Computer vision app for object tracking. Stack: OpenCV-Python, Darkflow.
+НИР в сфере обработки изображения, состоящая в проверке гипотезы улучшения качества работы одного из алгоритмов слежения путём добавления априорной информации об объекте слежения из обученной ИНС.
 
-### 2. [ShapeDetection](https://gitlab.com/DGKmaster/ShapeDetection)
+### 3.2 [ShapeDetection](https://gitlab.com/DGKmaster/ShapeDetection)
 
 OpenCV-C++ app for solving simple computer vision tasks: finding different figures types using 2 approaches, detecting red objects, crop region of interest (ROI) with red contoures.
 
