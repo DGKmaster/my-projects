@@ -76,7 +76,7 @@ Solutions for simple data science tasks such as fill in gaps or linear regressio
 
 Type I and type 2 errors plots of two hypothesis with normal distributions.
 
---
+---
 
 ## 5 Test tasks and Lab works
 
