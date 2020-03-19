@@ -64,11 +64,11 @@ OpenCV-C++ app for solving simple computer vision tasks: finding different figur
 
 ## 4 Data Science
 
-### [Data Science Laboratories](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2Fdata-science)
+### 4.1 [Data Science Laboratories](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2Fdata-science)
 
 Solutions for simple data science tasks such as fill in gaps or linear regression.
 
-### 3.3 [PPDetect](https://gitlab.com/DGKmaster/PPDetect)
+### 4.2 [PPDetect](https://gitlab.com/DGKmaster/PPDetect)
 
 НИР в сфере обработки изображения, заключающаяся в оценки наличия свободных парковочных мест по принимаемому видеопотоку с наружной камеры видеонаблюдения.
 
@@ -78,17 +78,16 @@ Type I and type 2 errors plots of two hypothesis with normal distributions.
 
 --
 
-## 4 Test tasks and Lab works
+## 5 Test tasks and Lab works
 
-### 4.1 [TCPchat](https://github.com/DGKmaster/TCPchat)
+### 5.1 [TCPchat](https://github.com/DGKmaster/TCPchat)
 
 Multiuser chat using TCP Windows sockets with one server.
 
-### 4.2 [StorageIO](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2FStorageIO)
+### 5.2 [StorageIO](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2FStorageIO)
 
-
-### 4.4 [Introduction-To-Cpp](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FIntroduction-To-Cpp)
+### 5.3 [Introduction-To-Cpp](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FIntroduction-To-Cpp)
 
 Basic math algortihms written in C++.
 
-### 4.8 [Process And Quality Management](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2017%2FProcess-Quality-Management)
+### 5.4 [Process And Quality Management](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2017%2FProcess-Quality-Management)
