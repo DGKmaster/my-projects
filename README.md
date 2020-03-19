@@ -34,6 +34,20 @@ Modelling a system using state space variables and applying a exponential filter
 
 Exponential filter in C++ using state space models.
 
+### 2.4 [Cyber-Physical-Systems](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2FCyber-Physical-Systems)
+
+### 2.5 [Micro Processor Technics](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FМicroProcessor-Technology)
+
+C code for AVR micro controllers.
+
+### 2.6 [SoundProcess](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2019%2FSoundProcess)
+
+### 2.7 [LEGO NXC](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FLEGO%20NXC)
+
+Code for LEGO NXT 2.0 robots.
+
+### 2.8 [Robotino](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FRobotino)
+
 ---
 
 ## 3 Computer Vision
@@ -48,16 +62,33 @@ OpenCV-C++ app for solving simple computer vision tasks: finding different figur
 
 ---
 
-## Other
+## 4 Data Science
 
-### [LabWorks](https://gitlab.com/DGKmaster/union/tree/master/LabWorks)
+### [Data Science Laboratories](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2Fdata-science)
 
-### [TestTasks](https://gitlab.com/DGKmaster/union/tree/master/TestTasks)
+Solutions for simple data science tasks such as fill in gaps or linear regression.
 
-### 1. [TCPchat](https://github.com/DGKmaster/TCPchat)
+### 3.3 [PPDetect](https://gitlab.com/DGKmaster/PPDetect)
+
+НИР в сфере обработки изображения, заключающаяся в оценки наличия свободных парковочных мест по принимаемому видеопотоку с наружной камеры видеонаблюдения.
+
+### 4.3 [errors-graph](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2Ferrors-graph)
+
+Type I and type 2 errors plots of two hypothesis with normal distributions.
+
+--
+
+## 4 Test tasks and Lab works
+
+### 4.1 [TCPchat](https://github.com/DGKmaster/TCPchat)
 
 Multiuser chat using TCP Windows sockets with one server.
 
-### 2. [DejaVu]()
+### 4.2 [StorageIO](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2FStorageIO)
 
----
+
+### 4.4 [Introduction-To-Cpp](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FIntroduction-To-Cpp)
+
+Basic math algortihms written in C++.
+
+### 4.8 [Process And Quality Management](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2017%2FProcess-Quality-Management)
