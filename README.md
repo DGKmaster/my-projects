@@ -1,52 +1,52 @@
 # Project list
 
-## 1 Hackathons
+## 1 Web
 
 ### 1.1 [xgboosters](https://dgkmaster.github.io/xgboosters/)
 
-Hackathon **Nexign Hack 2018**. QA case.
+* Hackathon **Nexign Hack 2018**. QA case.
 
 ### 1.2 [FastCart](https://github.com/samsheff/FastCart)
 
-Web app for automatic product type recognition by its image. For backend Django is used.
+* Web app for automatic product type recognition by its image. For backend Django is used.
 
 ### 1.3 [system-thinking](https://github.com/DGKmaster/system-thinking)
 
-Приложение и сервер по созданию туристических маршрутов.
+* Приложение и сервер по созданию туристических маршрутов.
 
 ### 1.4 [blockchainauction](https://gitlab.com/DGKmaster/blockchainauction)
 
-Web application for serving an auction using blockhain and smartcontracts.
+* Web application for serving an auction using blockhain and smartcontracts.
 
 ---
 
 ## 2 Robotics
 
-### 2.1 [NewHopeROS](https://gitlab.com/DGKmaster/NewHopeROS)
+### 2.1 [SoundProcess](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2019%2FSoundProcess)
 
-Разработка программных модулей системы управления колесным мобильным роботом.
+### 2.2 [StateCppModel](https://github.com/DGKmaster/StateCppModel)
 
-### 2.2 [SystemStateModel](https://github.com/DGKmaster/SystemStateModel)
+* Exponential filter in C++ using state space models.
 
-Modelling a system using state space variables and applying a exponential filter for output.
+### 2.3 [SystemStateModel](https://github.com/DGKmaster/SystemStateModel)
 
-### 2.3 [StateCppModel](https://github.com/DGKmaster/StateCppModel)
+* Modelling a system using state space variables and applying a exponential filter for output.
 
-Exponential filter in C++ using state space models.
+### 2.4 [NewHopeROS](https://gitlab.com/DGKmaster/NewHopeROS)
 
-### 2.4 [Cyber-Physical-Systems](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2FCyber-Physical-Systems)
+* Разработка программных модулей системы управления колесным мобильным роботом.
 
-### 2.5 [Micro Processor Technics](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FМicroProcessor-Technology)
+### 2.5 [Cyber-Physical-Systems](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2FCyber-Physical-Systems)
 
-C code for AVR micro controllers.
+### 2.6 [LEGO NXC](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FLEGO%20NXC)
 
-### 2.6 [SoundProcess](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2019%2FSoundProcess)
+* Code for LEGO NXT 2.0 robots.
 
-### 2.7 [LEGO NXC](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FLEGO%20NXC)
+### 2.7 [Robotino](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FRobotino)
 
-Code for LEGO NXT 2.0 robots.
+### 2.8 [Micro Processor Technics](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FМicroProcessor-Technology)
 
-### 2.8 [Robotino](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FRobotino)
+* C code for AVR micro controllers.
 
 ---
 
@@ -54,11 +54,11 @@ Code for LEGO NXT 2.0 robots.
 
 ### 3.1 [HunterCV](https://gitlab.com/DGKmaster/HunterCV)
 
-НИР в сфере обработки изображения, состоящая в проверке гипотезы улучшения качества работы одного из алгоритмов слежения путём добавления априорной информации об объекте слежения из обученной ИНС.
+* НИР в сфере обработки изображения, состоящая в проверке гипотезы улучшения качества работы одного из алгоритмов слежения путём добавления априорной информации об объекте слежения из обученной ИНС.
 
 ### 3.2 [ShapeDetection](https://gitlab.com/DGKmaster/ShapeDetection)
 
-OpenCV-C++ app for solving simple computer vision tasks: finding different figures types using 2 approaches, detecting red objects, crop region of interest (ROI) with red contoures.
+* OpenCV C++ app for solving simple computer vision tasks: finding different figures types using 2 approaches, detecting red objects, crop region of interest (ROI) with red contoures.
 
 ---
 
@@ -66,28 +66,22 @@ OpenCV-C++ app for solving simple computer vision tasks: finding different figur
 
 ### 4.1 [Data Science Laboratories](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2Fdata-science)
 
-Solutions for simple data science tasks such as fill in gaps or linear regression.
+* Solutions for simple data science tasks such as fill in gaps or linear regression.
 
-### 4.2 [PPDetect](https://gitlab.com/DGKmaster/PPDetect)
+### 4.2 [errors-graph](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2Ferrors-graph)
 
-НИР в сфере обработки изображения, заключающаяся в оценки наличия свободных парковочных мест по принимаемому видеопотоку с наружной камеры видеонаблюдения.
-
-### 4.3 [errors-graph](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2Ferrors-graph)
-
-Type I and type 2 errors plots of two hypothesis with normal distributions.
+* Type I and type 2 errors plots of two hypothesis with normal distributions.
 
 ---
 
-## 5 Test tasks and Lab works
+## 5 Lab works
 
 ### 5.1 [TCPchat](https://github.com/DGKmaster/TCPchat)
 
-Multiuser chat using TCP Windows sockets with one server.
+* Multiuser chat using TCP Windows sockets with one server.
 
-### 5.2 [StorageIO](https://gitlab.com/DGKmaster/union/-/tree/master/TestTasks%2F2018%2FStorageIO)
+### 5.2 [Introduction-To-Cpp](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FIntroduction-To-Cpp)
 
-### 5.3 [Introduction-To-Cpp](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FIntroduction-To-Cpp)
+* Basic math algortihms written in C++.
 
-Basic math algortihms written in C++.
-
-### 5.4 [Process And Quality Management](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2017%2FProcess-Quality-Management)
+### 5.3 [Process And Quality Management](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2017%2FProcess-Quality-Management)
