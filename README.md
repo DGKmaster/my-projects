@@ -10,14 +10,6 @@
 
 * [FastCart](https://github.com/samsheff/FastCart) - Web app for automatic product type recognition by its image. For backend Django is used.
 
-### 1.3 [system-thinking](https://github.com/DGKmaster/system-thinking)
-
-* Приложение и сервер по созданию туристических маршрутов.
-
-### 2.2 [StateCppModel](https://github.com/DGKmaster/StateCppModel)
-
-* Exponential filter in C++ using state space models.
-
 ### 3.1 [HunterCV](https://gitlab.com/DGKmaster/HunterCV)
 
 * НИР в сфере обработки изображения, состоящая в проверке гипотезы улучшения качества работы одного из алгоритмов слежения путём добавления априорной информации об объекте слежения из обученной ИНС.
