@@ -1,10 +1,7 @@
 # Project list
 
-## 1 Web
-
-### 1.1 [xgboosters](https://dgkmaster.github.io/xgboosters/)
-
-* Hackathon **Nexign Hack 2018**. QA case.
+[Gitlab](https://gitlab.com/users/DGKmaster/projects)
+[Github](https://github.com/DGKmaster?tab=repositories)
 
 ### 1.2 [FastCart](https://github.com/samsheff/FastCart)
 
@@ -22,31 +19,15 @@
 
 ## 2 Robotics
 
-### 2.1 [SoundProcess](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2019%2FSoundProcess)
-
 ### 2.2 [StateCppModel](https://github.com/DGKmaster/StateCppModel)
 
 * Exponential filter in C++ using state space models.
-
-### 2.3 [SystemStateModel](https://github.com/DGKmaster/SystemStateModel)
-
-* Modelling a system using state space variables and applying a exponential filter for output.
 
 ### 2.4 [NewHopeROS](https://gitlab.com/DGKmaster/NewHopeROS)
 
 * Разработка программных модулей системы управления колесным мобильным роботом.
 
 ### 2.5 [Cyber-Physical-Systems](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2018%2FCyber-Physical-Systems)
-
-### 2.6 [LEGO NXC](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FLEGO%20NXC)
-
-* Code for LEGO NXT 2.0 robots.
-
-### 2.7 [Robotino](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FRobotino)
-
-### 2.8 [Micro Processor Technics](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2016%2FМicroProcessor-Technology)
-
-* C code for AVR micro controllers.
 
 ---
 
@@ -55,10 +36,6 @@
 ### 3.1 [HunterCV](https://gitlab.com/DGKmaster/HunterCV)
 
 * НИР в сфере обработки изображения, состоящая в проверке гипотезы улучшения качества работы одного из алгоритмов слежения путём добавления априорной информации об объекте слежения из обученной ИНС.
-
-### 3.2 [ShapeDetection](https://gitlab.com/DGKmaster/ShapeDetection)
-
-* OpenCV C++ app for solving simple computer vision tasks: finding different figures types using 2 approaches, detecting red objects, crop region of interest (ROI) with red contoures.
 
 ---
 
@@ -79,9 +56,5 @@
 ### 5.1 [TCPchat](https://github.com/DGKmaster/TCPchat)
 
 * Multiuser chat using TCP Windows sockets with one server.
-
-### 5.2 [Introduction-To-Cpp](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2015%2FIntroduction-To-Cpp)
-
-* Basic math algortihms written in C++.
 
 ### 5.3 [Process And Quality Management](https://gitlab.com/DGKmaster/union/-/tree/master/LabWorks%2F2017%2FProcess-Quality-Management)
